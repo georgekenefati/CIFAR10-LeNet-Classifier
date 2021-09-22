@@ -1,6 +1,6 @@
 # CIFAR10-LeNet-Classifier
 A classifier for the CIFAR10 dataset constructed using the historical LeNet.
- * ![](./images/predicted_labels.png)
+ * ![](./images/cifar10.png)
 
 ## Requirements
 - GPU access (Google Colab and Kaggle are good starting points for free GPU access)
